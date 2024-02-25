@@ -1,0 +1,7 @@
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\bin\Debug\RabatNaLoty.exe.config
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\bin\Debug\RabatNaLoty.exe
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\bin\Debug\RabatNaLoty.pdb
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\obj\Debug\RabatNaLoty.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\obj\Debug\RabatNaLoty.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\obj\Debug\RabatNaLoty.exe
+C:\Users\PH\Desktop\C#\RabatNaLoty\RabatNaLoty\obj\Debug\RabatNaLoty.pdb
